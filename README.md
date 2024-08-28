@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abner and i'm a Java Developer, from GO, Brazil 🇧🇷</p>
+<p align="left">My name is Abner and I am a systems analysis and development student, from GO, Brazil 🇧🇷</p>
 
 ###
 
